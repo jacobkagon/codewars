@@ -19,3 +19,4 @@ function flyBy(lamps, drone){
   
     //turn array back into a string
     return lampsArr.join("")
+}
